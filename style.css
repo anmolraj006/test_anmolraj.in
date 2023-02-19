@@ -12,7 +12,7 @@ body {
 img {
   height: 90vh;
   width: 90vh;
-  mix-blend-mode:multiply;
+  mix-blend-mode:overlay;
 }
 img:hover{
   background-color: white;
