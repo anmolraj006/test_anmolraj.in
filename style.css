@@ -13,3 +13,7 @@ img {
   height: 90vh;
   width: 90vh;
 }
+img:hover{
+  background-color: white;
+  color:black;
+}
